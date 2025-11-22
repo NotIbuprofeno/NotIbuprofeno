@@ -1,16 +1,27 @@
-## Hi there 👋
 
-<!--
-**NotIbuprofeno/NotIbuprofeno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## NotIbuprofeno
 
-Here are some ideas to get you started:
+*Creator of [555 Gang](https://dsc.gg/Silk-road)*  
+*Cheat Detector*  
+*Professional skid*
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Knowledge
+
+**Programming Languages:**  
+
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=python&logoColor=black) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Lua](https://img.shields.io/badge/LuaU-2C2D72?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+### Kind of Goals
+- *ser top1 de freefire*
+- *Record guinnes de pajas*
+- *hola te amo*
+
+---
+
+### Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=NotIbuprofeno&show_icons=true&theme=transparent)
